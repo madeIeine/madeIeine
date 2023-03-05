@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Madeleine (Maddie) Mak, and I am a sophomore at Edgemont Jr./Sr. High School. 
+I am currently in the Science Scholars Research Program at my school, where I am focusing my research on humanoid robotics over the summer with my mentor.
+I know HTML, JavaScript, CSS, and Python. My current strengths are in web design and development.
+My interests include AI, graphic design, 2D art, baking, tennis, and of course, coding!
+
 
 <!--
 **madeIeine/madeIeine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
